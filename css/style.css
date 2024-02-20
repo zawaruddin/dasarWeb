@@ -1,0 +1,21 @@
+h1{
+    color: blue;
+}
+
+p{
+    background-color: yellow;
+}
+
+table th, table td{
+    border-width: 1px;
+    border-style: solid;
+    border-color: blue;
+}
+
+.bg-green{
+    background-color: green;
+}
+
+#bg-foot-grey{
+    background-color: grey;
+}
